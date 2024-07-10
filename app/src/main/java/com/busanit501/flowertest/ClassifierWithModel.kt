@@ -106,7 +106,7 @@ class ClassifierWithModel(var context: Context) {
     companion object {
         //        private const val MODEL_NAME = "converted_model.tflite"
 //        private const val LABEL_FILE = "labels.txt"
-        private const val MODEL_NAME = "copyFlower.tflite"
+        private const val MODEL_NAME = "model6.tflite"
         private const val LABEL_FILE = "labels_flower.txt"
     }
 }
